@@ -25,3 +25,10 @@ p{
 .cajita{
   background: red;
 }
+
+#titulo{
+  font-size: 30px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: purple;
+}
